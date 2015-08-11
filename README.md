@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=ZGTrtlLVAWo
 
 - Click '☰' to return home page
 - Scroll page to access more information
-- Click 'C°/F°' to make temperture converter between Celsius and Fahrenheit
+- Click 'C°/F°' to convert temperture between Celsius and Fahrenheit
 ![image](https://github.com/lessica082/weather-mock/blob/master/demo-img/detail.jpg)
 
